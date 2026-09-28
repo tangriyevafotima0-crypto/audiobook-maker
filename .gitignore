@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+*.tmp
+*.tmp.wav
+*.onnx
+*.onnx.json
+voices/
+models/
+*.wav
+*.mp3
+*.m4b
+output/
+dist/
+build/
+venv/
