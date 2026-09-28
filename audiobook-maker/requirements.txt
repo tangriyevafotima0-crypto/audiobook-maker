@@ -1,0 +1,4 @@
+piper-tts
+PyMuPDF
+EbookLib
+beautifulsoup4

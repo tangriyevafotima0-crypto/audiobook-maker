@@ -1,0 +1,12 @@
+# User-specific / generated content that must never be overwritten or
+# committed -- these are exactly the things run.sh must preserve across
+# an update.
+.venv/
+__pycache__/
+*.pyc
+output/*
+!output/.gitkeep
+voices/*
+!voices/.gitkeep
+*.mordret.json
+.DS_Store
