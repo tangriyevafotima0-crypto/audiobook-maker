@@ -1,0 +1,270 @@
+{
+  "mordret_version": 3,
+  "book_title": "Shadow Slave (Chapters 2866-3105)",
+  "source_file": "Shadow_Slave_2866-3105.docx",
+  "characters": [
+    {
+      "id": "cassie",
+      "name": "Cassie",
+      "aliases": [
+        "Cassia",
+        "Lady Cassia"
+      ],
+      "gender": "female",
+      "slot": "F1"
+    },
+    {
+      "id": "rain",
+      "name": "Rain",
+      "aliases": [],
+      "gender": "female",
+      "slot": "F2"
+    },
+    {
+      "id": "nightwalker",
+      "name": "Nightwalker",
+      "aliases": [
+        "Saint Nightwalker"
+      ],
+      "gender": "male",
+      "slot": "M1"
+    }
+  ],
+  "slots": {
+    "NARRATOR": "neutral",
+    "M1": "male",
+    "M2": "male",
+    "M3": "male",
+    "F1": "female",
+    "F2": "female",
+    "F3": "female"
+  },
+  "chapters": [
+    {
+      "chapter_index": 1,
+      "chapter_title": "Chapter 2866: Escaping the Ivory Island",
+      "lines": [
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "'The Tower of Hope is lost.' So was"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "\"Rain. Rain! Stand up. We need to move,"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "’ Rain slowly regained her senses. Her eyes"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "\"Stand up, Rain!\""
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Cassie forcefully pulled the young woman to her"
+        },
+        {
+          "speaker": "rain",
+          "anchor_start": "“Why is..."
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "\" She felt quiet, prompting Cassie to call"
+        },
+        {
+          "speaker": "rain",
+          "anchor_start": "\"L—lady Cassia?\""
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Cassie was still weak, distracted, and suffering from"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "\"Release your Epithets, Rain.\""
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "The young woman stared at her dazedly for"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "‘Much better.’"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "Cassie could finally think straight again. “Good. Now,"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "\" She pushed the bloodied dagger into Rain's"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "'Sid...'"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Sid had been by her side since the"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "\"Come!\""
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Since Sid had already reached this floor, the"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "‘Jet escaped. Can I escape?’ Cassie and Rain"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "“Hurry."
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "\" Cassie rushed Rain to follow her around"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "\"Nightwalker.\""
+        }
+      ]
+    },
+    {
+      "chapter_index": 2,
+      "chapter_title": "Chapter 2867: Interception",
+      "lines": [
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "The Dreamspawn must have sensed that Cassie had"
+        },
+        {
+          "speaker": "nightwalker",
+          "anchor_start": "“You should really consider surrendering voluntarily, young lady."
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "\" His voice was free of tension, sounding"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "“I don't think I will.”"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Her voice sounded calm and even. Unlike the"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "“Aren't you ashamed of yourself, Saint Nightwalker? That"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "\" Nightwalker seemed to smile."
+        },
+        {
+          "speaker": "nightwalker",
+          "anchor_start": "\"Oh, yes. I have to admit, I used"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Cassie's expression darkened when he spoke the Dreamspawn's"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "\"Surely you must know that you are under"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Nightwalker chuckled."
+        },
+        {
+          "speaker": "nightwalker",
+          "anchor_start": "“Actually, I like it quite a bit. He"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "\" Cassie smiled coldly. She knew that this"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "There was a quiet rustle — Nightwalker's clothes"
+        },
+        {
+          "speaker": "nightwalker",
+          "anchor_start": "“That said, I am a bit indignant at"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "\" Cassie's smile widened a little."
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "\"I am going to enjoy crushing you.\""
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Nightwalker laughed quietly, seemingly enjoying their conversation."
+        },
+        {
+          "speaker": "nightwalker",
+          "anchor_start": "\"Oh? Are you done trying to buy time,"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Instead of answering, Cassie silently unleashed the Crushing"
+        }
+      ]
+    },
+    {
+      "chapter_index": 3,
+      "chapter_title": "Chapter 2868: For Every Action",
+      "lines": [
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "There was one advantage to the fact that"
+        },
+        {
+          "speaker": "cassie",
+          "anchor_start": "'That potent...'"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "She knew that his Awakened Ability made it"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Before she could, however, Nightwalker spoke."
+        },
+        {
+          "speaker": "nightwalker",
+          "anchor_start": "\"Is it my turn, then?\""
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "In the next moment, Cassie shuddered and let"
+        },
+        {
+          "speaker": "nightwalker",
+          "anchor_start": "\"See...\""
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Nightwalker's voice was full of regret."
+        },
+        {
+          "speaker": "nightwalker",
+          "anchor_start": "\"That was why I told you to surrender"
+        },
+        {
+          "speaker": "NARRATOR",
+          "anchor_start": "Cassie staggered, but kept both her balance and"
+        }
+      ]
+    }
+  ]
+}
